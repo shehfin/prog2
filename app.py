@@ -1,5 +1,5 @@
 course_name = "Software Engineering"
-student_count = 60
+student_count = 75
 
 with open("build_report.txt", "w", encoding="utf-8") as file:
     file.write(f"Course Name: {course_name}\n")
